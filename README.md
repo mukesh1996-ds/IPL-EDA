@@ -27,3 +27,5 @@ The given data is all about the IPL matches and in total there are 756 rows whic
 
 For any assistance regarding the dataset mail me at 
 'mks.mukesh1996@gmail.com'
+
+This notebook can be accessed by any one
